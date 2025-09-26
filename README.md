@@ -1,5 +1,6 @@
 # Todo List
 ## Prosta aplikacja **Todo List** napisana w **HTML, CSS i JavaScript**, która pozwala na tworzenie, edytowanie, oznaczanie i usuwanie zadań.
+Aplikacja została stworzona w celu nauki i samorozwoju w JavaScript.
 
 ## Funkcjonalności
 - ➕ **Dodawanie** nowych zadań do listy.  
